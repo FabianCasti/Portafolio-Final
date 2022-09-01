@@ -30,11 +30,12 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hola! Yo soy </span>
           <span>Fabian Castillo Pedroza</span>
           <span>
-            Desarrollador web full stack
+            Desarrollador web full stack <br /> Colombia
           </span>
+           
         </div>
         <Link to="contact" smooth={true} spy={true}>
-          <button className="button i-button">Contactame</button>
+          <button className="button i-button">Contact</button>
         </Link>
         {/* social icons */}
         <div className="i-icons">

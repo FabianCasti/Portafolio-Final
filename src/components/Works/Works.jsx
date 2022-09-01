@@ -25,7 +25,7 @@ const Works = () => {
           <span style={{ color: darkMode ? "white" : "" }}>
             Experiencia
           </span>
-          <span>Brands & Clients</span>
+          <span></span>
 
           <div>
             <b> Technology e-commerce </b> <br /> <br />
